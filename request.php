@@ -82,6 +82,8 @@
 		#	foreach ($tmp as $value) { $children[] = $value; }
 		break;
 		case 'input':
+			$tmp=look_for_dbpedia($nodeid,$db1,$db2);
+			foreach ($tmp as $value) { $children[] = $value; }
 		case 'output':
 			if(strlen($dbpedia)>0) {
 				$tmp=look_for_dbpedia_input($nodeid,$dbpedia,$db1,$db2);
