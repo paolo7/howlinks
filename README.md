@@ -1,6 +1,6 @@
 # HowLinks
 
-A PhP and Javascript graphical explorer for RDF step-by-step instructions in the [PROHOW](http://w3id.org/prohow#) format and their related DBpedia pages.
+A PhP and Javascript graphical explorer for RDF step-by-step instructions in the [PROHOW](http://w3id.org/prohow#) format and their related DBpedia pages. You can a video of HowLinks in action [**here**](https://github.com/paolo7/howlinks/blob/master/videos/howlinks.flv).
 
 ![Screenshot](https://github.com/paolo7/howlinks/blob/master/HowLinksScreenshot.jpg)
 
