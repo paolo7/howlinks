@@ -30,8 +30,9 @@
 			Please enter keyworks to look for related processes
 		</div>';
 	echo '</div>
-	
-	<div style="margin-top:20px;margin-bottom:20px;font-size:0.6em;color:grey;">Paolo Pareti and Benoit Testu - developed at <a href="http://ri-www.nii.ac.jp/HowLinks/index.html">NII</a> ©</div></center>';
+	<div style="margin-top:20px;margin-bottom:20px;font-size:0.6em;color:grey;">The source code of this application is available on GitHub <a href="https://github.com/paolo7/howlinks">https://github.com/paolo7/howlinks</a></div> 
+	<div style="margin-top:20px;margin-bottom:20px;font-size:0.6em;color:grey;">Paolo Pareti and Benoit Testu - developed at <a href="http://ri-www.nii.ac.jp/HowLinks/index.html">NII</a> ©</div>
+	</center>';
 ?>
 
 <script type="text/javascript">
