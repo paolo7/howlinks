@@ -2,6 +2,8 @@
 
 A PhP and Javascript graphical explorer for RDF step-by-step instructions in the [PROHOW](http://w3id.org/prohow#) format and their related DBpedia pages.
 
+![Screenshot](https://github.com/paolo7/howlinks/blob/master/HowLinksScreenshot.jpg)
+
 ## Demo
 
 A live demo of this application is available at this address:
